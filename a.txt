@@ -1,1 +1,3 @@
 hi from mainhope everyting is going good
+need to see how pull works 
+if this works most of git is done
